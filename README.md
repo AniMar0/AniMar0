@@ -65,4 +65,10 @@ A backend system built with **Go, SQLite, and Node.js**, allowing users to creat
 
 ### 🐱 Fun Animation
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/AniMar0/AniMar0/output/snake.svg" alt="Snake animation" />
+=======
+
+<img src="https://raw.githubusercontent.com/AniMar0/AniMar0/output/snake.svg" alt="Snake animation" />
+
+>>>>>>> 6f452da9f87e3b0f25d7d734b449469af0b94492
