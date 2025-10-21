@@ -23,7 +23,7 @@
 
 **Social Network API**  
 A backend system built with **Go, SQLite, and Node.js**, allowing users to create accounts, post messages, and interact with each other.  
-[GitHub Repository](https://github.com/AniMar0/social-network-api)
+[GitHub Repository](https://github.com/AniMar0/social-network)
 
 ---
 
