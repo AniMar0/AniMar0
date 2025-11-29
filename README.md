@@ -84,7 +84,7 @@ Built with **Go**, **SQLite**, and **Node.js**
 - Real-time messaging
 - RESTful API architecture
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0/social-network)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0/social-network-api)
 
 </td>
 <td width="50%">
