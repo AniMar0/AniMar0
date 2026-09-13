@@ -2,275 +2,130 @@
 
 # 👋 Hi, I'm Zakaria Kahlaoui
 
-### Backend Developer specializing in Go, PostgreSQL & API Development 🇲🇦
+### Full-Stack Developer based in Morocco 🇲🇦
 
-Building backend systems, real-world products, and scalable web applications.
+I build web applications, backend APIs, SaaS products, and practical AI automations for real business needs.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=720&lines=Go+Backend+Developer;Building+Production+Web+Applications;REST+APIs+%7C+PostgreSQL+%7C+WebSockets;Problem+Solving+%26+Backend+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=720&lines=Go+Backend+Developer;Building+Production+Web+Applications;REST+APIs+%7C+PostgreSQL+%7C+Docker;SaaS+Products+%26+AI+Automation" alt="Typing SVG" />
 
-<br/>
+<br />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-animaro.me-FF2A38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.animaro.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_Kahlaoui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-kahlaoui/)
 [![GitHub](https://img.shields.io/badge/GitHub-AniMar0-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.zakariakahlaoui@gmail.com)
-[!Portfolio](https://www.animaro.me)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.zakariakahlaoui@gmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-I'm a backend-focused developer from Morocco, primarily working with **Go**, **SQL**, and modern web technologies.
+I'm Zakaria, a full-stack developer from Morocco with a strong backend focus. I enjoy turning product ideas and business workflows into reliable software that teams can actually use.
 
-I enjoy designing APIs, working with databases, debugging complex backend problems, and turning product ideas into working systems.
-
-My main project is **Amuris**, a SaaS platform I'm building for electronics businesses to manage repairs, inventory, billing, products, and business operations.
+My work covers backend architecture, REST APIs, database design, responsive web applications, real-time systems, deployment, and AI integrations. I care about clear APIs, maintainable code, useful product decisions, and a reliable path from idea to production.
 
 ```go
 developer := Developer{
     Name:     "Zakaria Kahlaoui",
     Location: "Morocco 🇲🇦",
     Focus: []string{
-        "Backend Development",
+        "Full-Stack Development",
+        "Go Backend Engineering",
         "REST API Design",
-        "Database Design",
-        "Real-Time Systems",
+        "SaaS Products",
+        "AI Automation",
     },
     MainStack: []string{
         "Go",
+        "Next.js",
         "PostgreSQL",
-        "Redis",
         "Docker",
     },
     CurrentlyBuilding: "Amuris",
 }
 ```
 
----
+## What I build
 
-## 🛠️ Tech Stack
+- Production-ready backend systems and REST APIs
+- Web applications with Next.js, React, and TypeScript
+- SaaS products with dashboards, permissions, and business workflows
+- Inventory, operations, billing, and internal business tools
+- Real-time features with WebSockets
+- AI document processing and workflow automation
+- Database-backed systems with PostgreSQL, Redis, and Docker
 
-<div align="center">
+## Tech stack
 
-### Backend
+### Backend and APIs
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### Databases & Data
+### Frontend and web
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend & Web
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend Tooling
+### Databases and infrastructure
 
-![pgx](https://img.shields.io/badge/pgx-PostgreSQL_Driver-4169E1?style=for-the-badge)
-![sqlc](https://img.shields.io/badge/sqlc-Type_Safe_SQL-336791?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry)
-
-### Tools & Infrastructure
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
+## Featured work
 
----
+### Amuris — business operations SaaS
 
-# 🚀 Featured Projects
+Amuris is a SaaS platform I am building for electronics businesses, repair shops, retailers, and technicians. It brings repairs, inventory, billing, products, expenses, notifications, and business operations into one system.
 
-## 🏢 Amuris
+I am working across the product: backend architecture, database design, authentication, business logic, APIs, frontend workflows, and deployment.
 
-### The Connected Business Platform
+**Stack:** `Go` · `Gin` · `PostgreSQL` · `pgx` · `sqlc` · `Redis` · `Next.js` · `TypeScript` · `Docker`
 
-**Amuris** is a SaaS platform designed for electronics businesses, repair shops, retailers, and technicians.
-
-I'm building the platform from product idea to backend architecture, database design, APIs, authentication, business logic, and deployment.
-
-### Backend Stack
-
-`Go` · `Gin` · `PostgreSQL` · `pgx` · `sqlc` · `Redis` · `Docker`
-
-### Frontend
-
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS`
-
-### Backend Features
-
-- 🔐 JWT-based authentication
-- 🏢 Multi-tenant architecture
-- 👥 Role-based access control
-- 🛠️ Repair management
-- 📦 Inventory management
-- 🧾 Billing and invoices
-- 🛒 Product & service management
-- 💰 Expense tracking
-- 🔔 Notifications
-- 🏪 Business storefronts
-- 📊 Business dashboard
-- ⚙️ Subscription & feature management
-- 🗄️ PostgreSQL Row-Level Security
-- 🐳 Dockerized deployment
-- 📈 Structured logging & observability
+**Key areas:** multi-tenant architecture, role-based access, repair management, inventory management, billing, dashboards, subscriptions, and observability.
 
 > Amuris is currently under active development.
 
----
-
-## 💬 Real-Time Forum
+### Real-Time Forum
 
 A full-stack social forum built around a Go backend and real-time communication.
 
-### Stack
+**Stack:** `Go` · `SQLite` · `JavaScript` · `WebSockets` · `REST`
 
-`Go` · `SQLite` · `JavaScript` · `WebSockets` · `REST`
+**Features:** authentication, posts and comments, private messaging, online user tracking, notifications, WebSocket communication, and REST APIs.
 
-### Features
+[![View repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0/real-time-forum)
 
-- User authentication
-- Posts and comments
-- Real-time private messaging
-- Online user tracking
-- Notifications
-- WebSocket communication
-- REST API endpoints
-- Single Page Application frontend
+More case studies and client-focused project work are available on my [portfolio](https://www.animaro.me/projects).
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0/real-time-forum)
+## Currently
 
----
+- Building **Amuris**, a SaaS platform for business operations
+- Improving Go backend architecture and system design
+- Working with PostgreSQL, SQL, Redis, and Docker
+- Exploring practical AI integrations and document automation
+- Open to backend, full-stack, freelance, and collaboration opportunities
 
-## 🧠 Auto Correction Tool
+## Let's connect
 
-A Go-based project focused on algorithms, text processing, and problem solving.
-
-Built as part of my continuous practice with Go and algorithmic thinking.
-
-[![GitHub](https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0?tab=repositories)
-
----
-
-# 💡 Backend Skills
-
-```text
-Backend Development
-├── Go
-├── REST API Design
-├── Authentication & Authorization
-├── WebSockets
-├── Concurrent Programming
-├── Error Handling
-├── Middleware
-└── Modular Backend Architecture
-
-Databases
-├── PostgreSQL
-├── SQLite
-├── SQL
-├── Database Schema Design
-├── Transactions
-├── Migrations
-└── Query Optimization
-
-Infrastructure
-├── Docker
-├── GitHub Actions
-├── Redis
-├── Linux
-├── Cloud Deployment
-└── Observability
-```
-
----
-
-# 📊 GitHub Analytics
-
-<br/>
+If you are building a web application, API, SaaS product, or business automation workflow, [send me a message](mailto:contact.zakariakahlaoui@gmail.com) or visit [animaro.me](https://www.animaro.me).
 
 <div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AniMar0&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
-
----
-
-# 🎯 Currently
-
-- 🔭 Building **Amuris**, a SaaS platform for electronics businesses
-- 🧠 Improving my **Go backend architecture and system design** skills
-- 🗄️ Working extensively with **PostgreSQL and SQL**
-- ⚡ Improving **concurrency and real-time systems** with Go
-- 🛠️ Refactoring and improving existing backend projects
-- 🌍 Looking for **Backend / Go Developer opportunities**
-- 🤝 Open to internships, junior positions, freelance work, and open-source collaboration
-
----
-
-# 🧩 What I Enjoy Working On
-
-- Backend APIs
-- Go applications
-- Database-heavy systems
-- Debugging backend issues
-- Authentication & authorization
-- Real-time communication
-- SaaS products
-- Business logic
-- API integrations
-- Performance and maintainability
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-I'm open to **Backend Development opportunities, Go projects, internships, freelance work, and collaboration.**
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-kahlaoui/)
-
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.zakariakahlaoui@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-AniMar0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniMar0)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AniMar0&color=00F7F7&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Case_Studies-FF2A38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.animaro.me/projects)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.zakariakahlaoui@gmail.com)
 
 ### Build. Learn. Improve. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
