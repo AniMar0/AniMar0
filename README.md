@@ -10,7 +10,7 @@ I build web applications, backend APIs, SaaS products, and practical AI automati
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-animaro.me-FF2A38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.animaro.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zkahlaoui.com-FF2A38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zkahlaoui.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_Kahlaoui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-kahlaoui/)
 [![GitHub](https://img.shields.io/badge/GitHub-AniMar0-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.zakariakahlaoui@gmail.com)
@@ -106,7 +106,7 @@ A full-stack social forum built around a Go backend and real-time communication.
 
 [![View repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AniMar0/real-time-forum)
 
-More case studies and client-focused project work are available on my [portfolio](https://www.animaro.me/projects).
+More case studies and client-focused project work are available on my [portfolio](https://www.zkahlaoui.com/projects).
 
 ## Currently
 
@@ -118,12 +118,12 @@ More case studies and client-focused project work are available on my [portfolio
 
 ## Let's connect
 
-If you are building a web application, API, SaaS product, or business automation workflow, [send me a message](mailto:contact.zakariakahlaoui@gmail.com) or visit [animaro.me](https://www.animaro.me).
+If you are building a web application, API, SaaS product, or business automation workflow, [send me a message](mailto:contact.zakariakahlaoui@gmail.com) or visit [zkahlaoui.com](https://www.zkahlaoui.com).
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-kahlaoui/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Case_Studies-FF2A38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.animaro.me/projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Case_Studies-FF2A38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zkahlaoui.com/projects)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.zakariakahlaoui@gmail.com)
 
 ### Build. Learn. Improve. Repeat.
